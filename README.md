@@ -11,7 +11,8 @@ This is a basic code editor web application built with React. It allows you to w
 - Code saving functionality using local storage
 - Copy code to the clipboard
 - Lock/unlock the editor to prevent accidental edits
-- Syntax highlighting for multiple programming languages
+- Options for multiple programming languages
+- Implemented the Identation (Tab Button)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
